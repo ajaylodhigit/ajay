@@ -22,10 +22,10 @@ else
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-    <section class="It's our ContinuumInnovation PHP test page">
-        <h1>It's our ContinuumInnovation PHP test page</h1>
-        <p>One of the best IT industry <em>CIPL</em> &nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
+    <section class="">
+        <h1>It's our ContinuumInnovation PHP test page!</h1>
+        <p>One of the best IT industry >>> <em>CIPL</em> Latest&nbsp;CloudWorld</p>
+        <p>We are tested at PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
@@ -37,7 +37,7 @@ else
 
         <h2>Also follow</h2>
         <ul>
-            <li><a href="https://github.com/aws/aws-sdk-php">Social Sites</a></li>
+            <li><a href="https://github.com/aws/aws-sdk-php">Official Site</a></li>
         </ul>
     </section>
 
