@@ -11,10 +11,11 @@ phases:
         commands:
             - echo "we are in the build block"
             - echo "we will run some tests"
-    artifacts:
-  files:
-    - '**/*'
-           
+   
     post_build:
         commands:
             - echo "we are in the post build phase"
+    artifacts:
+         files:
+            - '**/*'
+           
