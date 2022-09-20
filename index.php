@@ -22,22 +22,22 @@ else
     <link rel="stylesheet" href="/styles.css" type="text/css">
 </head>
 <body>
-    <section class="congratulations">
-        <h1>Congratulations!</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+    <section class="It's our ContinuumInnovation PHP test page">
+        <h1>It's our ContinuumInnovation PHP test page</h1>
+        <p>One of the best IT industry <em>CIPL</em> &nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
     <section class="instructions">
-        <h2>What's Next?</h2>
+        <h2>Know More About Us?</h2>
         <ul>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
+            <li><a href="">ContinuumInnovation</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>Also follow</h2>
         <ul>
-            <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
+            <li><a href="https://github.com/aws/aws-sdk-php">Social Sites</a></li>
         </ul>
     </section>
 
