@@ -32,12 +32,12 @@ else
     <section class="instructions">
         <h2>Know More About Us?</h2>
         <ul>
-            <li><a href="">ContinuumInnovations</a></li>
+            <li><a href="https://continuuminnovations.com/">ContinuumInnovations</a></li>
         </ul>
 
         <h2>Also follow</h2>
         <ul>
-            <li><a href="https://github.com/aws/aws-sdk-php">Official Site</a></li>
+            <li><a href="https://continuuminnovations.com/">Official Site</a></li>
         </ul>
     </section>
 
