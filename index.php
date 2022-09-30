@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="">
-        <h1>It's our ContinuumInnovations's PHP test page365!</h1>
+        <h1>It's our ContinuumInnovation PHP test page!</h1>
         <p>One of the best IT industry >>> <em>CIPL</em> Latest&nbsp;CloudWorld</p>
         <p>We are tested at PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
@@ -32,16 +32,16 @@ else
     <section class="instructions">
         <h2>Know More About Us?</h2>
         <ul>
-            <li><a href="https://continuuminnovations.com/">ContinuumInnovations</a></li>
+            <li><a href="">ContinuumInnovations</a></li>
         </ul>
 
         <h2>Also follow</h2>
         <ul>
-            <li><a href="https://continuuminnovations.com/">Official Site</a></li>
+            <li><a href="https://github.com/aws/aws-sdk-php">Official Site</a></li>
         </ul>
     </section>
 
-    <!--[if lt IE 9]><script src=""></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
 </html>
 <? 
