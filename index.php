@@ -30,7 +30,7 @@ else
     </section>
 
     <section class="instructions">
-        <h2>Know More About Us?</h2>
+        <h2>Know 12345665665About Us?</h2>
         <ul>
             <li><a href="">ContinuumInnovations</a></li>
         </ul>
