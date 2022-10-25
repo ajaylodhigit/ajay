@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="">
-        <h1>It's our ContinuumInnovation PHP test ppagessss!!</h1>
+        <h1>It's our ContinuumInnovation PHP test pagessss!!</h1>
         <p>One of the best IT industry >>> <em>CIPL</em> Latest&nbsp;CloudWorld</p>
         <p>We are tested at PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform......................................................</p>
