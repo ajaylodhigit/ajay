@@ -26,7 +26,7 @@ else
         <h1>It's our ContinuumInnovation PHP test page!</h1>
         <p>One of the best IT industry >>> <em>CIPL</em> Latest&nbsp;CloudWorld</p>
         <p>We are tested at PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform.....................................</p>
+        <p>This environment is launched with Elastic Beanstalk PHP Platform....................................</p>
     </section>
 
     <section class="instructions">
